@@ -20,8 +20,9 @@ A Streamlit web app that predicts a fair, competitive price (in SGD) for a lapto
 
 ## Files needed to run
 
-- `app.py`  this Streamlit app
-- `model.pkl`  the trained model + column list, must be in the same folder as `app.py`
+- `app.py`
+- `model.pkl`
+- `requirements.txt`
 
 
 ## Notes / limitations
